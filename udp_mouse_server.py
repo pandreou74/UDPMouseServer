@@ -71,7 +71,7 @@ def GetCursorPos():
     return {"x": pt.x, "y": pt.y}
 
 
-Do_mouse_event(Mouse_Events.MOUSEEVENTF_MOVE, -200, -200, 0, 0)
+
 
 SrceenWH = [ScreenWidth(), ScreenHeight()]
 
